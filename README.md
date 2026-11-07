@@ -1,12 +1,6 @@
 # IGRIS Voice Platform
 
-An independent workspace for three AI product builds:
-
-1. **IGRIS Voice** — a voice-and-text workspace with streaming chat.
-2. **AskDSA** — a planned retrieval-grounded assistant for data structures and algorithms.
-3. **Versus** — a planned side-by-side arena for comparing model responses.
-
-Each project has its own folder under `projects/`. IGRIS Voice is the active build; AskDSA and Versus are currently placeholders.
+IGRIS Voice is a voice-and-text AI workspace with streaming chat, optional browser speech input, and a server-side Azure OpenAI integration.
 
 ## IGRIS Voice
 
