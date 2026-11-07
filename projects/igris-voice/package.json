@@ -1,0 +1,22 @@
+{
+  "name": "@igris/voice-platform",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node --preserve-symlinks-main ../../node_modules/next/dist/bin/next dev --hostname 127.0.0.1",
+    "build": "node --preserve-symlinks-main ../../node_modules/next/dist/bin/next build",
+    "start": "node --preserve-symlinks-main ../../node_modules/next/dist/bin/next start --hostname 127.0.0.1",
+    "typecheck": "node --preserve-symlinks-main ../../node_modules/typescript/bin/tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "^15.5.7",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "typescript": "^5.8.3"
+  }
+}

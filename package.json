@@ -1,0 +1,15 @@
+{
+  "name": "igris-voice-platform",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "yarn@1.22.22",
+  "workspaces": [
+    "projects/igris-voice"
+  ],
+  "scripts": {
+    "dev": "yarn workspace @igris/voice-platform dev",
+    "build": "yarn workspace @igris/voice-platform build",
+    "start": "yarn workspace @igris/voice-platform start",
+    "typecheck": "yarn workspace @igris/voice-platform typecheck"
+  }
+}
