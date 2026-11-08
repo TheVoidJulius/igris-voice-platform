@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/watermarked_img_3713894434454857761.jpg" alt="IGRIS Voice Banner" width="100%" />
+  <img src="./assets/Gemini_Generated_Image_iwl1i6iwl1i6iwl1.png" alt="IGRIS Voice Banner" width="100%" />
 </div>
 
 # 🎙️ IGRIS Voice
